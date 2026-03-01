@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-section{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Title{
+    margin-left: 90px;
+}
+
+.under-header{
+   display: flex;
+   gap:10px;
+}
+
+a{
+    text-decoration: none;
+    color:black
+}
+
+
+
+.school-title{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+.education{
+    gap:5px;
+     margin-left:15px;
+ 
+}
+h4{
+    font-size: 16px;
+}
+
+
+.edu-title{
+    margin-top:20px;
+    border-bottom: 2px solid black; 
+    padding-bottom: 5px; 
+    width: 85%;
+}
+
+
+.school-information{
+    margin-top:10px;
+  display: flex;
+  width:85%;
+  justify-content: space-between;
+ gap:10px;
+  align-items: center;
+  flex-grow: 0;
+  margin-right:5px;
+  
+}
+
+li{
+   
+    margin-left:3px;
+    line-height: 2em;
+}
+
